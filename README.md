@@ -29,6 +29,8 @@
    
    Email: alexisfajian@hotmail.com
 
+   Telefono: +54 011 2733 9376
+
  ## Proyectos
    Proyecto individual Foods (SoyHenry): Mi primera experiencia en un proyecto, estuvo muy divertido e interesante.
    Fue un excelente reto y proyecto para aplicar lo aprendido durante el bootcamp
