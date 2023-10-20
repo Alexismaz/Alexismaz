@@ -17,12 +17,12 @@
 
  ## A donde me dirijo?
    Estoy tomando un curso de ingles para tener un mayor nivel del que tengo actualmente (intermedio), seguir
-   aprendiendo Typescript, Next.Js. Me encantaria aprender ReactNative, NestJs y algo de Firebase. Y despues
+   aprendiendo Typescript, NestJS. Me encantaria aprender ReactNative, AWS y algo de Firebase. Y despues
    ir viendo en que areas necesite fortalecer mas mis conocimientos
 
  ## Tecnologias que uso? 
    **React** - **Redux** - **Javascript** - **Next.js** - **Tailwind** - **CSS** - **HTML** - **NodeJs** 
-   **express** - **PostgreSQL** - **Sequelize** - **Prisma** - **Google auth.**
+   **express** - **PostgreSQL** - **Sequelize** - **Prisma** - **Google auth.** - **NestJS**
 
  ## Contacto
    [Mi linkedin](https://www.linkedin.com/in/alexis-fajian-7a7114276/)
