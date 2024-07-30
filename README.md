@@ -10,18 +10,18 @@
    hasta decidirme por el bootcamp de Henry, donde aprendí muchísimo sobre JavaScript, trabajo en equipo y buenas prácticas.
 
  ## Que hago actualmente?
-   Actualmente estoy realizando proyectos que me permitan implementar lo que aprendi e ir adquiriendo
-   nuevas habilidades y tecnologias. Me encanta el encarar una nueva tecnologia y tratar de entenderla para
-   porder implementarla en el codigo
+   Actualmente estoy trabajando en Maylandlabs donde se me encarga a mi y mis compañeros crear proyectos desde 0 o actualizar
+   trabajos ya terminados, para que tengan un diseño mas moderno, mejorar su rendimiento o agregar funcionalidades
 
  ## A donde me dirijo?
    Estoy tomando un curso de ingles para tener un mayor nivel del que tengo actualmente (intermedio), seguir
-   aprendiendo Typescript, NestJS. Me encantaria aprender ReactNative, AWS y algo de Firebase. Y despues
-   ir viendo en que areas necesite fortalecer mas mis conocimientos
+   aprendiendo Aws, Python y Kubernetes. Me encantaria aprender MachineLearning y agregar bases de datos
+   no SQL a mi stack. Irme actualizando y aprendiendo lo mas posible
 
  ## Tecnologias que uso? 
    **React** - **Redux** - **Javascript** - **Next.js** - **Tailwind** - **CSS** - **HTML** - **NodeJs** 
-   **express** - **PostgreSQL** - **Sequelize** - **Prisma** - **Google auth.** - **NestJS**
+   **express** - **PostgreSQL** - **Sequelize** - **Prisma** - **Google auth.** - **NestJS** - **Typescript**
+   **Swagger** - **TypeORM**
 
  ## Contacto
    [Mi linkedin](https://www.linkedin.com/in/alexis-fajian-7a7114276/)
@@ -39,3 +39,11 @@
    Esta experiencia fue genial tuvimos 3 semanas para hacer un proyecto entre
    un grupo de 7 personas, aprendimos muchisimo todos juntos. Sigue en desarrollo pero creo que todos hicimos un
    excelente trabajo. Me llevo muchos lindos recuerdos y tenemos un buen contacto con entre los integrantes del grupo
+
+   BestGarden: [link](https://www.bestgarden.com.ar)
+
+   Workitfy: [link](https://workitfy.maylandlabs.com)
+
+   Maylanlabs: [link](https://maylandlabs.com)
+
+   Padelink: [link](https://padelink.com.ar)
