@@ -3,12 +3,11 @@
  ## Quien soy? 
    Soy un Programador Full Stack Developer con una orientacion mas hacia el lado del Back-end 
    
-   Me encanta resolver problemas y desafios. Siempre me llamo la atencion el mundo de la tecnologia pero
-   no habia investigado mucho de como era. Gracias a un amigo que empezo bien como era este mundo por
-   como me lo contaba y me encanto, enseguida decidi meterme de lleno, practicando por mi cuenta y
-   buscando cursos para aprender lo mas posible. Empece aprendiendo html y css, despues avance a Python y
-   Go (me encanta Go pero tengo experiencia basica) hasta decidirme por el bootcamp de henry donde 
-   aprendi muchisimo de Javascript
+   Me encanta resolver problemas y desafíos. Siempre me ha llamado la atención el mundo de la tecnología.
+   Gracias a un amigo que se dedicó a enseñarme, me di cuenta de que quería dedicarme a esto. Decidí meterme de lleno,
+   practicando por mi cuenta y buscando cursos para aprender lo más posible.
+   Empecé aprendiendo HTML y CSS, luego avancé a Python y Go (me encanta Go, aunque tengo experiencia básica),
+   hasta decidirme por el bootcamp de Henry, donde aprendí muchísimo sobre JavaScript, trabajo en equipo y buenas prácticas.
 
  ## Que hago actualmente?
    Actualmente estoy realizando proyectos que me permitan implementar lo que aprendi e ir adquiriendo
