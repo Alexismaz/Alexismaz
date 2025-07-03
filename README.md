@@ -41,10 +41,14 @@
    un grupo de 7 personas, aprendimos muchisimo todos juntos. Sigue en desarrollo pero creo que todos hicimos un
    excelente trabajo. Me llevo muchos lindos recuerdos y tenemos un buen contacto con entre los integrantes del grupo
 
-   BestGarden: [link](https://www.bestgarden.com.ar)     Lumforschool: [link](https://padelink.com.ar)
+   BestGarden: [link](https://www.bestgarden.com.ar)
 
-   Workitfy: [link](https://workitfy.maylandlabs.com)    Lum App: [link](https://play.google.com/store/apps/details?id=com.deploydevapp.lumforschool&hl=es_AR)
+   Workitfy: [link](https://workitfy.maylandlabs.com)
 
    Maylanlabs: [link](https://maylandlabs.com)
 
    Padelink: [link](https://padelink.com.ar)
+
+   Lumforschool: [link](https://padelink.com.ar)
+
+   Lum App: [link](https://play.google.com/store/apps/details?id=com.deploydevapp.lumforschool&hl=es_AR)
