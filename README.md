@@ -21,7 +21,7 @@
 
  ## Tecnologias que uso? 
    **React** - **Redux** - **Javascript** - **Next.js** - **Tailwind** - **CSS** - **HTML** - **NodeJs** 
-   **express** - **PostgreSQL** - **Sequelize** - **Prisma** - **Google auth.** - **NestJS** - **Typescript**
+   **express** - **PostgreSQL** - **Sequelize** - **Prisma** - **Google auth.** - **NestJS** - **Typescript** -
    **Swagger** - **TypeORM** - **React Native** - **Open AI** - **Docker** - **JWT**
 
  ## Contacto
